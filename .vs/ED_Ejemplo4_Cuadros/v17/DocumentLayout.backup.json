@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Tecsanpedro\\SEMESTRE_4\\TOPICOS AVANZADOS DE PROGRAMACION\\ED_CuadrosListas-master (2)\\ED_CuadrosListas-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E6118E-3A0C-4D92-B6DC-E03920EB6459}|ED_Ejemplo4_Cuadros.csproj|c:\\tecsanpedro\\semestre_4\\topicos avanzados de programacion\\ed_cuadroslistas-master (2)\\ed_cuadroslistas-master\\dibujarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E6118E-3A0C-4D92-B6DC-E03920EB6459}|ED_Ejemplo4_Cuadros.csproj|solutionrelative:dibujarpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DibujarPanel.cs",
+              "DocumentMoniker": "C:\\Tecsanpedro\\SEMESTRE_4\\TOPICOS AVANZADOS DE PROGRAMACION\\ED_CuadrosListas-master (2)\\ED_CuadrosListas-master\\DibujarPanel.cs",
+              "RelativeDocumentMoniker": "DibujarPanel.cs",
+              "ToolTip": "C:\\Tecsanpedro\\SEMESTRE_4\\TOPICOS AVANZADOS DE PROGRAMACION\\ED_CuadrosListas-master (2)\\ED_CuadrosListas-master\\DibujarPanel.cs",
+              "RelativeToolTip": "DibujarPanel.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAIwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T20:43:21.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
